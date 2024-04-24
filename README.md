@@ -3,7 +3,7 @@ Movie Recommendation System created using Collaborative Filtering (Website)
 
 ### Deployment Images
 	HomePage
-![Alt text](templates/reco.jpg)
+![Alt text] (templates/reco.jpg)
 
 ### Objectives
 
