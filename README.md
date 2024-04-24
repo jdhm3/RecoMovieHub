@@ -1,8 +1,6 @@
 ## Movie Recommendation System (Website)
 Movie Recommendation System created using Collaborative Filtering (Website) 
 
-### Deployment Images
-	HomePage
 
 ### Objectives
 
